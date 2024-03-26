@@ -1,0 +1,13 @@
+ScriptImagen:
+
+pip install Pillow
+
+ScriptPDF: 
+
+pip install PyMuPDF
+
+ScriptExcel:
+
+pip install openpyxl
+
+posteriormente ejecutar de manera normal 
